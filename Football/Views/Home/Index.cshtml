@@ -1,0 +1,81 @@
+﻿@{
+    ViewData["Title"] = "Accueil";
+}
+
+<div class="jumbotron text-center"
+     style="background-color: #fff;
+            background-image: url('images/divback4.jpg');
+            background-size: cover;
+            background-position: center;
+            padding: 50px;
+            margin-top:50px;">
+    <h1 class="display-4 font-weight-bold">Bienvenue dans notre Boutique de Maillots de Soccer !</h1>
+    <p class="lead mt-3 mb-4">Découvrez notre collection exclusive pour la Coupe du Monde 2026.</p>
+    <a class="btn btn-primary btn-lg" style="background-image: url('images/navback.jpg')" href="@Url.Action("Index", "Maillot")" role="button">
+        <i class="fas fa-tshirt"></i> Voir les Maillots
+    </a>
+</div>
+
+<div class="container mt-5">
+    <!-- Section "À Propos" -->
+    <div class="row mb-5 d-flex justify-content-between" style="margin-top: 200px;">
+        <div class="col-md-8" style="background-color: #fff;
+            background-image: url('images/divback4.jpg');
+            background-size: cover;
+            background-position: center;
+            padding: 50px;">
+            <h2>À Propos de Notre Boutique</h2>
+            <p class="text-muted">Nous proposons une large gamme de maillots de soccer de haute qualité pour les fans du monde entier. Que vous souteniez votre équipe nationale préférée ou que vous aimiez simplement collectionner, notre boutique est là pour vous !</p>
+            <p><strong>Soutenez votre équipe avec style et passion !</strong></p>
+            <p>Notre boutique en ligne vous offre un accès facile à des maillots de football authentiques et à des équipements spécialisés. Nous nous engageons à fournir les produits les plus récents et les plus recherchés, en veillant à ce que vous puissiez afficher vos couleurs tout au long de la Coupe du Monde 2026.</p>
+            <p>Nous croyons en l'excellence, c'est pourquoi nous collaborons avec les meilleures marques et vous garantissons des produits de qualité supérieure qui répondront à vos attentes. Que vous soyez un fan de longue date ou un collectionneur, notre site est conçu pour rendre votre expérience d'achat aussi agréable que possible.</p>
+        </div>
+        <div class="col-md-4">
+            <img src="/images/logo.jpg" alt="Maillots de soccer" class="img-fluid rounded shadow-sm" style="height:500px">
+        </div>
+    </div>
+
+    <!-- Section "Nouveautés" -->
+    <div class="row text-center">
+        <h2 class="col-12 mb-4" style="background-color: #fff;
+            background-image: url('images/divback4.jpg');
+            background-size: cover;
+            background-position: center;
+            padding: 20px;">
+            Nouveautés
+        </h2>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <img src="https://assets.adidas.com/images/w_600,f_auto,q_auto/b665e30e75134699b050aecb00fd808e_9366/Maillot_Domicile_Algerie_22_blanc_HE9254_01_laydown.jpg" class="card-img-top" alt="Maillot Intérieur Algérie">
+                <div class="card-body" style="background-image: url('images/divback4.jpg')">
+                    <h5 class="card-title" >Maillot Intérieur Algérie</h5>
+                    <p class="card-text text-muted" >Supportez l'équipe nationale d'Algérie avec ce maillot officiel domicile, arborant le vert emblématique et un design moderne.</p>
+                    <a href="@Url.Action("Index", "Maillot")" class="btn btn-primary" style="background-image: url('images/navback.jpg')">Voir Plus</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <img src="https://foot-star.com/wp-content/uploads/2024/10/Maillot-Enfant-Algerie-Exterieur-2024-2025.jpg" class="card-img-top" alt="Maillot Extérieur Algérie">
+                <div class="card-body" style="background-image: url('images/divback4.jpg')">
+                    <h5 class="card-title">Maillot Extérieur Algérie</h5>
+                    <p class="card-text text-muted">Affichez votre soutien à l'extérieur avec ce maillot blanc épuré, conçu pour les matchs à l'extérieur et les fans passionnés.</p>
+                    <a href="@Url.Action("Index", "Maillot")" class="btn btn-primary" style="background-image: url('images/navback.jpg')">Voir Plus</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgY-hRwn_rdegoAV3UIb5vWwFgDgBmKKVXYg&s" class="card-img-top" alt="Maillot Entraînement Algérie">
+                <div class="card-body" style="background-image: url('images/divback4.jpg')">
+                    <h5 class="card-title">Maillot Entraînement Algérie</h5>
+                    <p class="card-text text-muted">Préparez-vous comme les pros avec ce maillot d'entraînement officiel, conçu pour un confort optimal et une liberté de mouvement.</p>
+                    <a href="@Url.Action("Index", "Maillot")" class="btn btn-primary" style="background-image: url('images/navback.jpg')">Voir Plus</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

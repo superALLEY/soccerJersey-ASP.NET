@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\controllers\\maillotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\controllers\\maillotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Migrations\\20241208214427_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Football\\Migrations\\20241208214427_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\models\\annuairecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\models\\annuairecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\views\\maillot\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\views\\maillot\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\views\\maillot\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\views\\maillot\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\views\\maillot\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\views\\maillot\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\views\\maillot\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\views\\maillot\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\models\\maillot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\models\\maillot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\views\\maillot\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\views\\maillot\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\models\\coupedumonde2026.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\models\\coupedumonde2026.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilisateur\\Documents\\TECCART\\session3\\applitransac\\Projet_session\\Football\\Football\\Migrations\\20241119142932_MaDeuxiemeMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\football.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\football.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|c:\\users\\hp\\downloads\\projet_session\\projet_session\\football\\football\\migrations\\20241119143849_mapremieremigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4209F9CB-F155-4209-BD11-CBF4DA3DBDC9}|Football\\Football.csproj|solutionrelative:football\\migrations\\20241119143849_mapremieremigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241208214427_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Migrations\\20241208214427_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Football\\Migrations\\20241208214427_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Migrations\\20241208214427_InitialCreate.cs",
+              "RelativeToolTip": "Football\\Migrations\\20241208214427_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:44:28.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241119142932_MaDeuxiemeMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Documents\\TECCART\\session3\\applitransac\\Projet_session\\Football\\Football\\Migrations\\20241119142932_MaDeuxiemeMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Utilisateur\\Documents\\TECCART\\session3\\applitransac\\Projet_session\\Football\\Football\\Migrations\\20241119142932_MaDeuxiemeMigration.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Documents\\TECCART\\session3\\applitransac\\Projet_session\\Football\\Football\\Migrations\\20241119142932_MaDeuxiemeMigration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Utilisateur\\Documents\\TECCART\\session3\\applitransac\\Projet_session\\Football\\Football\\Migrations\\20241119142932_MaDeuxiemeMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:29:33.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Football\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Football\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T22:00:30.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Football\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Football\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAEsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T22:00:21.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Program.cs",
+              "RelativeDocumentMoniker": "Football\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Program.cs",
+              "RelativeToolTip": "Football\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:40:28.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Views\\Maillot\\Index.cshtml",
+              "RelativeDocumentMoniker": "Football\\Views\\Maillot\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Views\\Maillot\\Index.cshtml",
+              "RelativeToolTip": "Football\\Views\\Maillot\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T21:31:12.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaillotController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Controllers\\MaillotController.cs",
+              "RelativeDocumentMoniker": "Football\\Controllers\\MaillotController.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Controllers\\MaillotController.cs",
+              "RelativeToolTip": "Football\\Controllers\\MaillotController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:08:20.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241119143849_MaPremiereMigration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Migrations\\20241119143849_MaPremiereMigration.cs",
+              "RelativeDocumentMoniker": "Football\\Migrations\\20241119143849_MaPremiereMigration.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Migrations\\20241119143849_MaPremiereMigration.cs",
+              "RelativeToolTip": "Football\\Migrations\\20241119143849_MaPremiereMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:38:49.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnnuaireContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Models\\AnnuaireContext.cs",
+              "RelativeDocumentMoniker": "Football\\Models\\AnnuaireContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Models\\AnnuaireContext.cs",
+              "RelativeToolTip": "Football\\Models\\AnnuaireContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:25:42.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CoupeDuMonde2026.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Models\\CoupeDuMonde2026.cs",
+              "RelativeDocumentMoniker": "Football\\Models\\CoupeDuMonde2026.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Models\\CoupeDuMonde2026.cs",
+              "RelativeToolTip": "Football\\Models\\CoupeDuMonde2026.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:37:56.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Football\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Football\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:52:25.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Football\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Football\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-19T20:54:40.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\appsettings.json",
+              "RelativeDocumentMoniker": "Football\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\appsettings.json",
+              "RelativeToolTip": "Football\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T21:37:13.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Views\\Maillot\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Football\\Views\\Maillot\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Views\\Maillot\\Edit.cshtml",
+              "RelativeToolTip": "Football\\Views\\Maillot\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T21:34:46.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Views\\Maillot\\Details.cshtml",
+              "RelativeDocumentMoniker": "Football\\Views\\Maillot\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Views\\Maillot\\Details.cshtml",
+              "RelativeToolTip": "Football\\Views\\Maillot\\Details.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T21:33:09.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Views\\Maillot\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Football\\Views\\Maillot\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Views\\Maillot\\Delete.cshtml",
+              "RelativeToolTip": "Football\\Views\\Maillot\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T21:32:33.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Views\\Maillot\\Create.cshtml",
+              "RelativeDocumentMoniker": "Football\\Views\\Maillot\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Views\\Maillot\\Create.cshtml",
+              "RelativeToolTip": "Football\\Views\\Maillot\\Create.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFIAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T21:31:58.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Football.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Football.csproj",
+              "RelativeDocumentMoniker": "Football\\Football.csproj",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Football.csproj",
+              "RelativeToolTip": "Football\\Football.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T21:26:44.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Maillot.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Models\\Maillot.cs",
+              "RelativeDocumentMoniker": "Football\\Models\\Maillot.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Projet_session\\Projet_session\\Football\\Football\\Models\\Maillot.cs",
+              "RelativeToolTip": "Football\\Models\\Maillot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:03:18.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

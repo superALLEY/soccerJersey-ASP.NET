@@ -1,0 +1,95 @@
+﻿@model IEnumerable<Football.Models.Maillot>
+
+@{
+    ViewData["Title"] = "Maillots";
+}
+
+
+<div class="container"
+     style="
+        max-width: 800px;
+        height: 500px;
+        margin: 0 auto;
+        margin-bottom: 100px;">
+    <div class="row justify-content-center">
+        <div class="col-md-12">
+            <div class="card shadow-lg"
+                 style="
+                    border-radius: 15px;
+                    background-image: url('images/divbackrm.jpg');
+                    background-size: cover;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    max-width: 800px;
+                    height: 500px;
+                    overflow: hidden;">
+                <div class="card-body text-center p-5"
+                     style="
+                        height: calc(100% - 40px);
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;">
+                    <h2 style="font-size: 28px; font-weight: bold; color: #FFD700;">Ajouter un Nouveau Maillot</h2>
+                    <p style="color: #FFD700; font-size: 16px;">Créez un nouveau maillot pour enrichir notre collection et permettre aux fans de découvrir plus d'options.</p>
+                    <a class="btn btn-lg text-white"
+                       style="
+                            background-image: url('images/divback3.jpg');
+                            padding: 12px 40px;
+                            font-size: 18px;
+                            font-weight: bold;
+                            border-radius: 25px;
+                            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+                            transition: transform 0.3s ease, box-shadow 0.3s ease;
+                            margin-top: 320px;"
+                       asp-action="Create"
+                       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 6px 12px rgba(0, 0, 0, 0.5)';"
+                       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 4px 8px rgba(0, 0, 0, 0.3)';">
+                        <i class="fas fa-plus-circle"></i> Créer un Maillot
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<h1 class="text-center mb-4" style="font-size: 36px; font-weight: bold; color: black;background-image: url('images/divback4.jpg')">Nos Maillots</h1>
+
+
+<div class="container">
+    <div class="row mt-4" >
+        @foreach (var group in Model.GroupBy(m => m.Pays))
+        {
+            <div class="col-12 mb-5" >
+                <h3 class="text-center" style="font-size: 30px; color: snow; background-image: url('images/navback.jpg'); padding: 10px; border-radius: 10px;">@group.Key</h3>
+                <div class="overflow-auto" style="white-space: nowrap; scroll-behavior: smooth;">
+                    @foreach (var item in group)
+                    {
+                        <div class="col-md-4 mb-4 d-inline-block">
+                            <div class="card shadow-sm" style="border-radius: 10px; overflow: hidden;">
+                                <img src="@item.Picture" alt="@item.Description" class="picture" width="400px" height="400px" style="border-radius: 50%;" />
+                                <div class="card-body d-flex flex-column justify-content-between" style="background-image: url('images/divback4.jpg'); height: 370px;">
+                                    <div>
+                                        <p class="card-text" style="white-space: normal; line-height: 1.6; word-wrap: break-word; color: #6c757d;">
+                                            @item.Description
+                                        </p>
+                                        <p class="card-text" style="color: #6c757d;">Couleur : <strong>@item.Couleur</strong></p>
+                                        <p class="card-text" style="color: #6c757d;">Taille : <strong>@item.Taille</strong></p>
+                                        <p class="card-text" style="color: #28a745;">Prix : <strong>@item.Prix.ToString("C")</strong></p>
+                                        <p class="card-text" style="color: #007bff;">Équipe : <strong>@item.Pays</strong></p>
+                                    </div>
+                                    <div class="mt-auto d-flex justify-content-between">
+                                        <a class="btn btn-primary btn-sm" style="background-image: url('images/divback3.jpg');" asp-action="Details" asp-route-id="@item.Id">Détails</a>
+                                        <a class="btn btn-primary btn-sm" style="background-image: url('images/navback.jpg');" asp-action="Edit" asp-route-id="@item.Id">Éditer</a>
+                                        <a class="btn btn-primary btn-sm" style="background-image: url('images/divback.jpg');" asp-action="Delete" asp-route-id="@item.Id">Supprimer</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        }
+    </div>
+</div>
